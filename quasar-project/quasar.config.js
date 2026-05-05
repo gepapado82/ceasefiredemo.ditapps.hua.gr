@@ -66,7 +66,7 @@ module.exports = configure(function (/* ctx */) {
       // vueOptionsAPI: false,
 
       // rebuildCache: true, // rebuilds Vite/linter/etc cache on startup
-
+      publicPath: '/ceasefiredemo.ditapps.hua.gr/',
       // publicPath: '/',
       // analyze: true,
       // env: {},
