@@ -1,0 +1,6 @@
+12 0.9998904466629028 0.001199278049170971
+Powder_Drug 99.99
+Injectable_Drug 0.01
+Military_Clothing 0.0
+Pils Drug 0.0
+Rifles 0.0

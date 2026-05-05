@@ -1,0 +1,6 @@
+14 0.9999948740005493 6.856337131466717e-05
+Rifles 100.0
+Shotgun 0.0
+Blades 0.0
+Pcp_airguns 0.0
+Knives 0.0

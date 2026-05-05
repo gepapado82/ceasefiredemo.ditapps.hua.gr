@@ -1,0 +1,6 @@
+3 0.8207529187202454 0.5070189237594604
+Bullet Boxes 82.08
+Pils Drug 17.23
+Knives 0.33
+Rockets 0.2
+Powder_Drug 0.17

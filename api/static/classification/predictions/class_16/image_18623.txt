@@ -1,0 +1,6 @@
+6 0.5321157574653625 1.2553226947784424
+Injectable_Drug 53.21
+Knives 28.91
+Rockets 10.31
+Bullet Cells 2.79
+Weapon_Storage 1.63

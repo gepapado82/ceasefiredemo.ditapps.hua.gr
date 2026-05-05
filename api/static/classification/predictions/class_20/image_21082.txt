@@ -1,0 +1,6 @@
+20 0.9996663331985474 0.0031450572423636913
+Weapon_Magazines 99.97
+Pistols 0.03
+War Accessories 0.0
+Knives 0.0
+Weapon_Cases 0.0

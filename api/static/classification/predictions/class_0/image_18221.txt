@@ -1,0 +1,6 @@
+0 0.968887209892273 0.1440264880657196
+Blades 96.89
+Knives 2.99
+Rockets 0.11
+Pils Drug 0.0
+War Accessories 0.0

@@ -1,0 +1,6 @@
+13 0.9964035749435425 0.023884642869234085
+Revolver 99.64
+Pistols 0.36
+Rifles 0.0
+Shotgun 0.0
+Military_Clothing 0.0

@@ -1,0 +1,6 @@
+20 0.9607468247413635 0.18128806352615356
+Weapon_Magazines 96.07
+Blades 3.53
+Rockets 0.31
+Powder_Drug 0.03
+Pistols 0.03

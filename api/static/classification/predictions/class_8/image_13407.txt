@@ -1,0 +1,6 @@
+8 0.9998281002044678 0.0018662060610949993
+Military_Clothing 99.98
+Pistols 0.01
+War Accessories 0.01
+Full_face_hoods 0.0
+Knives 0.0

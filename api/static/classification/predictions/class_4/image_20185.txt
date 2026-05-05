@@ -1,0 +1,6 @@
+4 0.3894464075565338 1.1293714046478271
+Bullet Cells 38.94
+Injectable_Drug 38.72
+Rockets 21.1
+Knives 0.93
+Pils Drug 0.12

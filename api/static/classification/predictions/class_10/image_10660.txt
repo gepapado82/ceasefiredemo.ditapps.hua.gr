@@ -1,0 +1,6 @@
+10 0.999987006187439 0.0001734428369672969
+Pils Drug 100.0
+Rockets 0.0
+Knives 0.0
+Injectable_Drug 0.0
+Bombs 0.0

@@ -1,0 +1,6 @@
+11 0.23769089579582214 2.1321239471435547
+Pistols 23.77
+Bullet Boxes 18.45
+Blades 18.4
+Weapon_Storage 13.02
+Rockets 10.44

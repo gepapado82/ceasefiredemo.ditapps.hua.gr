@@ -1,0 +1,6 @@
+18 0.8522772789001465 0.6203889846801758
+War Accessories 85.23
+Military_Clothing 7.72
+Bullet Boxes 3.75
+Full_face_hoods 1.79
+Revolver 0.43

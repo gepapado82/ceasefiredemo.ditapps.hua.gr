@@ -1,0 +1,6 @@
+15 0.9043360948562622 0.41226232051849365
+Rockets 90.43
+Military_Clothing 5.6
+War Accessories 3.21
+Bullet Boxes 0.27
+Bombs 0.23

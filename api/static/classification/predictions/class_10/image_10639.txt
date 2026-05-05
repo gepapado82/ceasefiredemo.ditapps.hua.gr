@@ -1,0 +1,6 @@
+10 0.9947279095649719 0.034277934581041336
+Pils Drug 99.47
+Weapon_Cases 0.5
+Powder_Drug 0.01
+Bullet Boxes 0.01
+Knives 0.0

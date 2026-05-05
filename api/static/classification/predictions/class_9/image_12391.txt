@@ -1,0 +1,6 @@
+15 0.7749574780464172 0.9487354159355164
+Rockets 77.5
+Pistols 7.39
+Injectable_Drug 4.08
+Bullet Boxes 2.99
+Rifles 2.84

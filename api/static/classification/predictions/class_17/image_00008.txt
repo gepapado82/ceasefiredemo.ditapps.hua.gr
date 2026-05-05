@@ -1,0 +1,6 @@
+17 0.9999970197677612 4.055803583469242e-05
+Shotgun 100.0
+Rifles 0.0
+Rockets 0.0
+Pcp_airguns 0.0
+Pistols 0.0

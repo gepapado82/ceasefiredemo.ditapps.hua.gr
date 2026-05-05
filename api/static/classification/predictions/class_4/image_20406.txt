@@ -1,0 +1,6 @@
+4 0.8421766757965088 0.6618978977203369
+Bullet Cells 84.22
+Military_Clothing 8.7
+Powder_Drug 2.8
+Injectable_Drug 2.1
+Weapon_Cases 0.59

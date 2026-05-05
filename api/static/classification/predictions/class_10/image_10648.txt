@@ -1,0 +1,6 @@
+10 0.9999955892562866 6.221939838724211e-05
+Pils Drug 100.0
+Injectable_Drug 0.0
+Powder_Drug 0.0
+Military_Clothing 0.0
+Bullet Boxes 0.0

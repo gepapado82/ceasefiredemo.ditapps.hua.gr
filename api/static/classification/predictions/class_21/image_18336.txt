@@ -1,0 +1,6 @@
+6 0.4212583303451538 1.6420749425888062
+Injectable_Drug 42.13
+Full_face_hoods 21.94
+Powder_Drug 11.6
+Weapon_Storage 8.32
+War Accessories 8.18

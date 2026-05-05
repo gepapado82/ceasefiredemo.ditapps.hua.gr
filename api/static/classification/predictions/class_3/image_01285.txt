@@ -1,0 +1,6 @@
+3 0.9999785423278809 0.00027967290952801704
+Bullet Boxes 100.0
+Powder_Drug 0.0
+Full_face_hoods 0.0
+Military_Clothing 0.0
+War Accessories 0.0

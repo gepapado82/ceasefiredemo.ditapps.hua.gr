@@ -1,0 +1,6 @@
+18 0.999925971031189 0.0008615880506113172
+War Accessories 99.99
+Weapon_Storage 0.0
+Full_face_hoods 0.0
+Knives 0.0
+Bullet Boxes 0.0

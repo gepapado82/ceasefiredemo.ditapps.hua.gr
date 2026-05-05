@@ -1,0 +1,6 @@
+10 0.98306804895401 0.08827490359544754
+Pils Drug 98.31
+Full_face_hoods 1.65
+Weapon_Storage 0.03
+Knives 0.0
+Blades 0.0

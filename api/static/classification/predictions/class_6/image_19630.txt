@@ -1,0 +1,6 @@
+6 0.9947375655174255 0.038279108703136444
+Injectable_Drug 99.47
+Knives 0.26
+Military_Clothing 0.22
+Blades 0.01
+Revolver 0.01

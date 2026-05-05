@@ -1,0 +1,6 @@
+6 0.6000451445579529 1.2261772155761719
+Injectable_Drug 60.0
+Bombs 14.73
+Weeds 12.26
+Powder_Drug 9.89
+Bullet Cells 1.83

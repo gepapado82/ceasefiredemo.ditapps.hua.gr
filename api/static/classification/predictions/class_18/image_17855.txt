@@ -1,0 +1,6 @@
+18 0.9999324083328247 0.0007724225870333612
+War Accessories 99.99
+Military_Clothing 0.01
+Knives 0.0
+Bullet Cells 0.0
+Bullet Boxes 0.0

@@ -1,0 +1,6 @@
+4 0.3961836099624634 1.7314561605453491
+Bullet Cells 39.62
+Knives 18.41
+Seeds 15.7
+War Accessories 13.99
+Rifles 3.77

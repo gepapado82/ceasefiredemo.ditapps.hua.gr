@@ -1,0 +1,6 @@
+15 0.9776191711425781 0.14021149277687073
+Rockets 97.76
+Knives 0.93
+Shotgun 0.57
+Full_face_hoods 0.34
+Military_Clothing 0.29

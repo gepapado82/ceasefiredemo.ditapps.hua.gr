@@ -1,0 +1,6 @@
+15 1.0 1.1382613820387633e-06
+Rockets 100.0
+Knives 0.0
+Injectable_Drug 0.0
+Bombs 0.0
+Rifles 0.0

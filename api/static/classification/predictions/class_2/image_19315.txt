@@ -1,0 +1,6 @@
+8 0.9554442167282104 0.236239954829216
+Military_Clothing 95.54
+Blades 2.67
+Knives 0.82
+Bow and Arrow 0.58
+Shotgun 0.21

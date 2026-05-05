@@ -1,0 +1,6 @@
+16 0.3230956792831421 1.89005446434021
+Seeds 32.31
+Knives 23.55
+Pistols 15.54
+Military_Clothing 9.42
+Full_face_hoods 6.24

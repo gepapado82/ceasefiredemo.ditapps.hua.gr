@@ -1,0 +1,6 @@
+14 0.8982253074645996 0.3343423008918762
+Rifles 89.82
+Shotgun 10.09
+Pcp_airguns 0.06
+Rockets 0.02
+Military_Clothing 0.0

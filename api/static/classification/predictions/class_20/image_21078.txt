@@ -1,0 +1,6 @@
+20 0.874611496925354 0.37893757224082947
+Weapon_Magazines 87.46
+Blades 12.52
+War Accessories 0.01
+Pistols 0.0
+Injectable_Drug 0.0

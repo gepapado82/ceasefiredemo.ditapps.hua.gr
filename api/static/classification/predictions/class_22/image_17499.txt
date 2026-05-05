@@ -1,0 +1,6 @@
+8 0.9895638823509216 0.06698906421661377
+Military_Clothing 98.96
+Rifles 0.82
+Pistols 0.13
+Bullet Cells 0.03
+Revolver 0.02

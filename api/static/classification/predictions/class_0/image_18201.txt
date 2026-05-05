@@ -1,0 +1,6 @@
+0 0.9840585589408875 0.09362837672233582
+Blades 98.41
+Knives 1.26
+Pistols 0.17
+War Accessories 0.13
+Revolver 0.02

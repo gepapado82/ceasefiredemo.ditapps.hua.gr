@@ -1,0 +1,6 @@
+10 1.0 1.205992958830393e-07
+Pils Drug 100.0
+War Accessories 0.0
+Powder_Drug 0.0
+Injectable_Drug 0.0
+Military_Clothing 0.0

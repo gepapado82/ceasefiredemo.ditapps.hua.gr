@@ -1,0 +1,6 @@
+16 0.9948009252548218 0.0338277742266655
+Seeds 99.48
+Bullet Cells 0.5
+Bombs 0.01
+War Accessories 0.01
+Pils Drug 0.0

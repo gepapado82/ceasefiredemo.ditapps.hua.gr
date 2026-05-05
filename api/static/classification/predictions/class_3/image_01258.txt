@@ -1,0 +1,6 @@
+15 0.6575706601142883 0.6972849369049072
+Rockets 65.76
+Bullet Boxes 33.18
+Pils Drug 0.86
+Bombs 0.15
+War Accessories 0.04

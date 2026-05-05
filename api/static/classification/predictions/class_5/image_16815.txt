@@ -1,0 +1,6 @@
+5 0.7219420075416565 0.6414827108383179
+Full_face_hoods 72.19
+Military_Clothing 27.0
+Shotgun 0.3
+Bullet Cells 0.14
+Revolver 0.13

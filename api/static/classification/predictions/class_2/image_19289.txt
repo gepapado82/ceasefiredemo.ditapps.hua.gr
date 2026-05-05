@@ -1,0 +1,6 @@
+7 0.4371962547302246 1.2102724313735962
+Knives 43.72
+Rockets 40.16
+Injectable_Drug 7.91
+Blades 5.82
+Military_Clothing 1.62

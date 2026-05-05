@@ -1,0 +1,6 @@
+6 0.6070583462715149 0.9900615215301514
+Injectable_Drug 60.71
+Weapon_Storage 27.58
+Powder_Drug 9.56
+Military_Clothing 1.27
+Rockets 0.52

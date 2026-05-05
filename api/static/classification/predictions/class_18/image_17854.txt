@@ -1,0 +1,6 @@
+18 0.9895055890083313 0.07726072520017624
+War Accessories 98.95
+Full_face_hoods 0.46
+Knives 0.16
+Rockets 0.13
+Military_Clothing 0.08

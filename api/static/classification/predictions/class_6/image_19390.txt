@@ -1,0 +1,6 @@
+6 0.9111719727516174 0.32863089442253113
+Injectable_Drug 91.12
+Weapon_Storage 8.3
+Pils Drug 0.27
+Military_Clothing 0.2
+Rockets 0.06

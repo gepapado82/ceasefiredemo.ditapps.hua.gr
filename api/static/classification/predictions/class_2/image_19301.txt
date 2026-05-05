@@ -1,0 +1,6 @@
+0 0.8529790639877319 0.6181343793869019
+Blades 85.3
+Knives 7.11
+Military_Clothing 4.38
+Bow and Arrow 1.17
+Injectable_Drug 1.05

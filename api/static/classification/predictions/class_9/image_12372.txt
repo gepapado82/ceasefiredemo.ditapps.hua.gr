@@ -1,0 +1,6 @@
+15 0.34730398654937744 1.8991107940673828
+Rockets 34.73
+Pistols 16.58
+Revolver 14.15
+Weapon_Storage 13.01
+Rifles 9.85

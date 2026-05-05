@@ -1,0 +1,6 @@
+4 0.38466745615005493 1.5673794746398926
+Bullet Cells 38.47
+Seeds 35.32
+Pistols 9.31
+Military_Clothing 6.03
+War Accessories 3.87

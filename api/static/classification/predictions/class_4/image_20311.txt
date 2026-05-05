@@ -1,0 +1,6 @@
+4 0.9999529123306274 0.000523378374055028
+Bullet Cells 100.0
+Injectable_Drug 0.0
+Military_Clothing 0.0
+Rifles 0.0
+Powder_Drug 0.0

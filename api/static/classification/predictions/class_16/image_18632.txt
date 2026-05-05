@@ -1,0 +1,6 @@
+16 0.9942798614501953 0.043359316885471344
+Seeds 99.43
+Military_Clothing 0.23
+Weeds 0.18
+Bombs 0.1
+Pils Drug 0.03

@@ -1,0 +1,6 @@
+11 0.9999686479568481 0.0003569343243725598
+Pistols 100.0
+Revolver 0.0
+War Accessories 0.0
+Knives 0.0
+Weapon_Cases 0.0

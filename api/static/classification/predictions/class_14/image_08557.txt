@@ -1,0 +1,6 @@
+4 0.20790445804595947 2.573885440826416
+Bullet Cells 20.79
+Rockets 11.51
+Knives 10.57
+Pistols 10.25
+Weapon_Cases 9.41

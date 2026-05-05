@@ -1,0 +1,6 @@
+5 0.9990153312683105 0.007971870712935925
+Full_face_hoods 99.9
+Military_Clothing 0.1
+Knives 0.0
+Bullet Boxes 0.0
+Shotgun 0.0

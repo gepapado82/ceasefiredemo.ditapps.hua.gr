@@ -1,0 +1,6 @@
+0 0.6647471785545349 0.9371979832649231
+Blades 66.47
+Weapon_Magazines 24.44
+Bullet Boxes 5.1
+War Accessories 2.31
+Pistols 1.33

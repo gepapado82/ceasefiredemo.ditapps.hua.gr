@@ -1,0 +1,6 @@
+19 0.9999866485595703 0.00017832760931923985
+Weapon_Cases 100.0
+Knives 0.0
+Pistols 0.0
+War Accessories 0.0
+Bullet Boxes 0.0

@@ -1,0 +1,6 @@
+12 0.9997228980064392 0.002939197700470686
+Powder_Drug 99.97
+Injectable_Drug 0.01
+Weapon_Storage 0.01
+War Accessories 0.0
+Pils Drug 0.0

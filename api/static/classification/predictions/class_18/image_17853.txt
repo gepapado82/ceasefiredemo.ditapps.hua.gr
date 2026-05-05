@@ -1,0 +1,6 @@
+18 0.458453893661499 1.157917857170105
+War Accessories 45.85
+Knives 35.26
+Shotgun 15.98
+Blades 1.41
+Military_Clothing 0.91

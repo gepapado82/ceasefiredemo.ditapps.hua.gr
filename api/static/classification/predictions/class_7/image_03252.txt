@@ -1,0 +1,6 @@
+7 1.0 4.581734742714616e-07
+Knives 100.0
+Military_Clothing 0.0
+Bullet Boxes 0.0
+Rockets 0.0
+Bombs 0.0

@@ -1,0 +1,6 @@
+8 0.6366680264472961 1.1543536186218262
+Military_Clothing 63.67
+Injectable_Drug 16.81
+Bullet Cells 12.23
+Powder_Drug 2.38
+Weeds 1.7

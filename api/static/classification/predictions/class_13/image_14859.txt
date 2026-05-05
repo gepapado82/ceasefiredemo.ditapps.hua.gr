@@ -1,0 +1,6 @@
+21 0.509144127368927 1.5629690885543823
+Weapon_Storage 50.91
+Revolver 15.18
+Injectable_Drug 15.14
+Military_Clothing 6.61
+Powder_Drug 4.19

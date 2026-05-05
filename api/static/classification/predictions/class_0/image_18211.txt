@@ -1,0 +1,6 @@
+0 0.9880120754241943 0.0679335743188858
+Blades 98.8
+Injectable_Drug 1.14
+Rifles 0.05
+Knives 0.01
+Shotgun 0.01

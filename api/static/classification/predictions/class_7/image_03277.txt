@@ -1,0 +1,6 @@
+7 1.0 1.2275036453957e-07
+Knives 100.0
+Rockets 0.0
+Shotgun 0.0
+Powder_Drug 0.0
+War Accessories 0.0

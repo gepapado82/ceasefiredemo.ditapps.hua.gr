@@ -1,0 +1,6 @@
+18 0.7375664114952087 0.5797064900398254
+War Accessories 73.76
+Knives 26.2
+Rockets 0.02
+Weapon_Cases 0.01
+Full_face_hoods 0.01

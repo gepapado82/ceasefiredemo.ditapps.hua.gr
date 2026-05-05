@@ -1,0 +1,6 @@
+7 0.597526490688324 0.8715689182281494
+Knives 59.75
+Bullet Cells 35.91
+Military_Clothing 2.25
+Injectable_Drug 0.95
+Shotgun 0.44

@@ -1,0 +1,6 @@
+8 0.9966268539428711 0.023445457220077515
+Military_Clothing 99.66
+War Accessories 0.32
+Full_face_hoods 0.01
+Weapon_Cases 0.01
+Shotgun 0.0

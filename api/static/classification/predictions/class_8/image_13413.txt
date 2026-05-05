@@ -1,0 +1,6 @@
+18 0.8351072669029236 0.5808039307594299
+War Accessories 83.51
+Rockets 12.66
+Knives 2.56
+Weapon_Storage 0.47
+Weapon_Cases 0.47

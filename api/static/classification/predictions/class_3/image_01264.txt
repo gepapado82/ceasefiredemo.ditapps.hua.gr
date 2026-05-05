@@ -1,0 +1,6 @@
+3 0.9999997615814209 4.722313406091416e-06
+Bullet Boxes 100.0
+Blades 0.0
+Powder_Drug 0.0
+War Accessories 0.0
+Pils Drug 0.0

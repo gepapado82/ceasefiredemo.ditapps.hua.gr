@@ -1,0 +1,6 @@
+6 0.9581096172332764 0.17394444346427917
+Injectable_Drug 95.81
+Powder_Drug 4.19
+Pils Drug 0.0
+Weapon_Storage 0.0
+Rockets 0.0

@@ -1,0 +1,6 @@
+16 0.9872318506240845 0.07919672131538391
+Seeds 98.72
+War Accessories 1.01
+Rockets 0.13
+Full_face_hoods 0.05
+Bullet Boxes 0.03

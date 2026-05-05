@@ -1,0 +1,6 @@
+10 0.9999961853027344 5.6584169215057045e-05
+Pils Drug 100.0
+Full_face_hoods 0.0
+Blades 0.0
+Knives 0.0
+Rockets 0.0

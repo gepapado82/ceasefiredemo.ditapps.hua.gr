@@ -1,0 +1,6 @@
+15 0.3302425742149353 1.9172532558441162
+Rockets 33.02
+Injectable_Drug 19.87
+Weapon_Storage 16.96
+Rifles 10.06
+Pils Drug 7.62

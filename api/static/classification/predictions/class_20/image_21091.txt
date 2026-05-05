@@ -1,0 +1,6 @@
+20 0.999958872795105 0.00046740847756154835
+Weapon_Magazines 100.0
+Pistols 0.0
+War Accessories 0.0
+Bullet Boxes 0.0
+Rockets 0.0

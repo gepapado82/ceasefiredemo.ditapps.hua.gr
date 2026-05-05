@@ -1,0 +1,6 @@
+10 0.999964714050293 0.00040699259261600673
+Pils Drug 100.0
+Powder_Drug 0.0
+Knives 0.0
+War Accessories 0.0
+Rifles 0.0

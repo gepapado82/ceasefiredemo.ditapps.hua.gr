@@ -1,0 +1,6 @@
+4 0.8449052572250366 0.7040320634841919
+Bullet Cells 84.49
+Pistols 6.26
+Revolver 3.16
+Rockets 2.41
+Injectable_Drug 1.29

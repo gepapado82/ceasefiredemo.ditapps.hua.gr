@@ -1,0 +1,6 @@
+5 0.9989495873451233 0.008849970065057278
+Full_face_hoods 99.89
+Military_Clothing 0.08
+Injectable_Drug 0.02
+Pils Drug 0.0
+Rockets 0.0

@@ -1,0 +1,6 @@
+7 0.8019757866859436 0.4977368712425232
+Knives 80.2
+Blades 19.8
+War Accessories 0.0
+Rockets 0.0
+Shotgun 0.0

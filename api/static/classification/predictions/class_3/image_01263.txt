@@ -1,0 +1,6 @@
+3 0.9999992847442627 1.1100411029474344e-05
+Bullet Boxes 100.0
+Powder_Drug 0.0
+Full_face_hoods 0.0
+Knives 0.0
+Rockets 0.0

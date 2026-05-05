@@ -1,0 +1,6 @@
+3 0.999168872833252 0.007882967591285706
+Bullet Boxes 99.92
+Powder_Drug 0.05
+Rockets 0.02
+Rifles 0.01
+Military_Clothing 0.0

@@ -1,0 +1,6 @@
+21 0.9999476671218872 0.0005898882518522441
+Weapon_Storage 99.99
+War Accessories 0.0
+Injectable_Drug 0.0
+Powder_Drug 0.0
+Rifles 0.0

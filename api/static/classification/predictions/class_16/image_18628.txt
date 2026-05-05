@@ -1,0 +1,6 @@
+16 0.8866653442382812 0.5491904616355896
+Seeds 88.67
+Pils Drug 3.66
+Pistols 2.95
+Bullet Boxes 2.4
+Full_face_hoods 0.73

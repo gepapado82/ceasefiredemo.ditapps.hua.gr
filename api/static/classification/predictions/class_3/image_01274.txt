@@ -1,0 +1,6 @@
+18 0.6177870035171509 0.8205391764640808
+War Accessories 61.78
+Bullet Boxes 34.72
+Blades 1.98
+Bullet Cells 1.07
+Bombs 0.21

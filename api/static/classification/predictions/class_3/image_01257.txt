@@ -1,0 +1,6 @@
+3 0.9999492168426514 0.0006109692621976137
+Bullet Boxes 99.99
+War Accessories 0.0
+Full_face_hoods 0.0
+Rockets 0.0
+Weapon_Storage 0.0

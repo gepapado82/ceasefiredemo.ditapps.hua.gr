@@ -1,0 +1,6 @@
+21 0.9975230097770691 0.017826620489358902
+Weapon_Storage 99.75
+Injectable_Drug 0.24
+Powder_Drug 0.0
+War Accessories 0.0
+Military_Clothing 0.0

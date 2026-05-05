@@ -1,0 +1,6 @@
+3 0.9996515512466431 0.0033939145505428314
+Bullet Boxes 99.97
+War Accessories 0.03
+Rockets 0.0
+Full_face_hoods 0.0
+Pils Drug 0.0

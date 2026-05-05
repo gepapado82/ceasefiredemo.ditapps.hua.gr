@@ -1,0 +1,6 @@
+15 0.8499675989151001 0.532360315322876
+Rockets 85.0
+Knives 12.37
+Bow and Arrow 1.01
+Military_Clothing 0.87
+Rifles 0.31

@@ -1,0 +1,6 @@
+11 0.24294357001781464 2.557509422302246
+Pistols 24.29
+Knives 12.38
+Shotgun 8.95
+Blades 7.74
+Pcp_airguns 6.92

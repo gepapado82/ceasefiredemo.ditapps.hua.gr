@@ -1,0 +1,6 @@
+7 0.9966936111450195 0.022566668689250946
+Knives 99.67
+Rockets 0.32
+Weapon_Cases 0.0
+Bombs 0.0
+Weapon_Storage 0.0

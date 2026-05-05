@@ -1,0 +1,6 @@
+17 0.898980975151062 0.39765414595603943
+Shotgun 89.9
+Knives 8.01
+Rifles 1.39
+Blades 0.54
+Pcp_airguns 0.09

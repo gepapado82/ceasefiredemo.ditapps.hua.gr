@@ -1,0 +1,6 @@
+15 0.9765440225601196 0.14106178283691406
+Rockets 97.65
+Injectable_Drug 1.29
+Bullet Cells 0.55
+Bullet Boxes 0.33
+Rifles 0.05

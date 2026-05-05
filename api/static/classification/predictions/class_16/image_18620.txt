@@ -1,0 +1,6 @@
+10 0.5562499761581421 1.1278462409973145
+Pils Drug 55.62
+Seeds 26.0
+Military_Clothing 13.4
+Injectable_Drug 4.26
+Bombs 0.36

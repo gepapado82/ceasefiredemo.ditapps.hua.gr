@@ -1,0 +1,6 @@
+22 0.9903857707977295 0.06497165560722351
+Weeds 99.04
+Powder_Drug 0.43
+Seeds 0.43
+Bombs 0.05
+Military_Clothing 0.02

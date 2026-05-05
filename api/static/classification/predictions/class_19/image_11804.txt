@@ -1,0 +1,6 @@
+19 0.9997583031654358 0.002322583692148328
+Weapon_Cases 99.98
+Knives 0.02
+War Accessories 0.0
+Weapon_Magazines 0.0
+Pils Drug 0.0

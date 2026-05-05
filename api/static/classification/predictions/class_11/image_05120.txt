@@ -1,0 +1,6 @@
+11 0.9999995231628418 7.166252544266172e-06
+Pistols 100.0
+Revolver 0.0
+Rockets 0.0
+Weapon_Cases 0.0
+Rifles 0.0

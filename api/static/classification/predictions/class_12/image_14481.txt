@@ -1,0 +1,6 @@
+12 0.9997076392173767 0.002968665910884738
+Powder_Drug 99.97
+Injectable_Drug 0.02
+Rockets 0.0
+Pils Drug 0.0
+Bullet Cells 0.0

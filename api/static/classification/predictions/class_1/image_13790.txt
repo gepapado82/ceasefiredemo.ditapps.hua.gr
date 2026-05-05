@@ -1,0 +1,6 @@
+1 0.9999980926513672 2.81984011962777e-05
+Bombs 100.0
+War Accessories 0.0
+Pistols 0.0
+Pils Drug 0.0
+Military_Clothing 0.0

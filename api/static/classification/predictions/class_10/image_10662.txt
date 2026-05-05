@@ -1,0 +1,6 @@
+7 0.3783929646015167 1.6634232997894287
+Knives 37.84
+Blades 32.09
+Rockets 10.66
+Injectable_Drug 5.91
+Full_face_hoods 4.7

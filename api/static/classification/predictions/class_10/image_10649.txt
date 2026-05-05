@@ -1,0 +1,6 @@
+10 0.7127031087875366 0.9984490871429443
+Pils Drug 71.27
+Injectable_Drug 16.71
+War Accessories 5.42
+Powder_Drug 2.3
+Weapon_Cases 1.17

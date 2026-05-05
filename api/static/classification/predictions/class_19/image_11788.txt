@@ -1,0 +1,6 @@
+19 1.0 1.0671575410015066e-06
+Weapon_Cases 100.0
+Knives 0.0
+War Accessories 0.0
+Pils Drug 0.0
+Full_face_hoods 0.0

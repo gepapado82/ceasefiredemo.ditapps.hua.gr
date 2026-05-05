@@ -1,0 +1,6 @@
+5 0.9193824529647827 0.4443840980529785
+Full_face_hoods 91.94
+Bullet Cells 1.98
+Military_Clothing 1.56
+Knives 1.52
+Rockets 0.93

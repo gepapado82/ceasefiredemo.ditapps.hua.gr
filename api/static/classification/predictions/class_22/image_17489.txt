@@ -1,0 +1,6 @@
+16 0.9250566363334656 0.34121406078338623
+Seeds 92.51
+Weeds 4.42
+Powder_Drug 2.5
+Bullet Cells 0.2
+Rifles 0.17

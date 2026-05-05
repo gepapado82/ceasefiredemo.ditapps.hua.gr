@@ -1,0 +1,6 @@
+14 0.6955284476280212 1.0288594961166382
+Rifles 69.55
+Military_Clothing 15.69
+Powder_Drug 6.84
+Shotgun 5.15
+Weeds 0.97

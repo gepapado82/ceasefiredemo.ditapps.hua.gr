@@ -1,0 +1,6 @@
+7 0.8358278870582581 0.4944809675216675
+Knives 83.58
+Bombs 15.47
+Military_Clothing 0.45
+War Accessories 0.3
+Pils Drug 0.15

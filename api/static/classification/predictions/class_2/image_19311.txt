@@ -1,0 +1,6 @@
+7 0.9999094009399414 0.0010510379215702415
+Knives 99.99
+Rockets 0.01
+Shotgun 0.0
+War Accessories 0.0
+Rifles 0.0

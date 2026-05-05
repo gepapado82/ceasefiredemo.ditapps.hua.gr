@@ -1,0 +1,6 @@
+8 0.9866652488708496 0.09922437369823456
+Military_Clothing 98.67
+Rifles 0.27
+Shotgun 0.25
+Injectable_Drug 0.17
+War Accessories 0.16

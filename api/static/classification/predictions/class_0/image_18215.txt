@@ -1,0 +1,6 @@
+0 0.9524070620536804 0.20442000031471252
+Blades 95.24
+Knives 4.48
+Bombs 0.21
+Injectable_Drug 0.04
+Powder_Drug 0.02

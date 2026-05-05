@@ -1,0 +1,6 @@
+1 1.0 5.932930093877076e-07
+Bombs 100.0
+War Accessories 0.0
+Military_Clothing 0.0
+Weapon_Magazines 0.0
+Knives 0.0

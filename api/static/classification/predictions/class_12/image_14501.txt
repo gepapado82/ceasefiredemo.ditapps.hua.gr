@@ -1,0 +1,6 @@
+6 0.47411468625068665 1.084220290184021
+Injectable_Drug 47.41
+Powder_Drug 34.86
+Pils Drug 16.41
+Blades 1.06
+Bullet Boxes 0.17

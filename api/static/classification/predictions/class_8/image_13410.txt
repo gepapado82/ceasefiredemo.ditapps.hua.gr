@@ -1,0 +1,6 @@
+8 0.9980078339576721 0.014384349808096886
+Military_Clothing 99.8
+War Accessories 0.2
+Rifles 0.0
+Weapon_Cases 0.0
+Knives 0.0

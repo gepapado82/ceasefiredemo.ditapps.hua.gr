@@ -1,0 +1,6 @@
+17 0.9999879598617554 0.00015316573262680322
+Shotgun 100.0
+Knives 0.0
+Rifles 0.0
+Pcp_airguns 0.0
+Rockets 0.0

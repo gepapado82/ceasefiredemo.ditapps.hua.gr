@@ -1,0 +1,6 @@
+18 0.3855985105037689 1.2940744161605835
+War Accessories 38.56
+Powder_Drug 37.61
+Injectable_Drug 16.96
+Rifles 4.54
+Rockets 1.5

@@ -1,0 +1,6 @@
+6 0.932684600353241 0.3097980320453644
+Injectable_Drug 93.27
+Powder_Drug 5.13
+Bullet Cells 0.64
+Pistols 0.44
+Shotgun 0.18

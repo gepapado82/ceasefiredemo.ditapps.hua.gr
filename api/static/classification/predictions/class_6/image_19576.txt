@@ -1,0 +1,6 @@
+6 0.9999972581863403 4.1554369090590626e-05
+Injectable_Drug 100.0
+Pistols 0.0
+Military_Clothing 0.0
+Shotgun 0.0
+Rockets 0.0

@@ -1,0 +1,6 @@
+7 0.6209471225738525 1.1964339017868042
+Knives 62.09
+Bullet Boxes 17.67
+Powder_Drug 10.32
+Blades 5.36
+Weapon_Storage 2.24

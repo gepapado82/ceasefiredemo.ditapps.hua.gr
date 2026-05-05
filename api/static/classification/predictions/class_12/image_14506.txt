@@ -1,0 +1,6 @@
+6 0.5231486558914185 1.1710457801818848
+Injectable_Drug 52.31
+Powder_Drug 33.88
+Knives 7.71
+Blades 2.94
+Rockets 1.6

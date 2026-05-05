@@ -1,0 +1,6 @@
+13 0.9811729788780212 0.09366073459386826
+Revolver 98.12
+Pistols 1.88
+Shotgun 0.0
+Rifles 0.0
+Weapon_Cases 0.0

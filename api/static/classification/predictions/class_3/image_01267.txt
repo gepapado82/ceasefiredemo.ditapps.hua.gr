@@ -1,0 +1,6 @@
+3 0.9973535537719727 0.019605860114097595
+Bullet Boxes 99.74
+Pils Drug 0.24
+Powder_Drug 0.02
+War Accessories 0.01
+Injectable_Drug 0.0

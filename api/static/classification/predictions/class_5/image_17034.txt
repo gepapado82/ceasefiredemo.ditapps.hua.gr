@@ -1,0 +1,6 @@
+5 0.999997615814209 3.745045978575945e-05
+Full_face_hoods 100.0
+Military_Clothing 0.0
+Bombs 0.0
+Injectable_Drug 0.0
+War Accessories 0.0

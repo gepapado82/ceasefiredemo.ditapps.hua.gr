@@ -1,0 +1,6 @@
+16 0.9869017004966736 0.08744346350431442
+Seeds 98.69
+Bullet Cells 0.79
+Pistols 0.19
+Military_Clothing 0.15
+Full_face_hoods 0.06

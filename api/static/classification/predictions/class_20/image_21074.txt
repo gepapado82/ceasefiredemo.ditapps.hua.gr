@@ -1,0 +1,6 @@
+20 0.7639984488487244 0.5611695051193237
+Weapon_Magazines 76.4
+Bullet Boxes 23.39
+Pils Drug 0.09
+Rockets 0.08
+Full_face_hoods 0.03

@@ -1,0 +1,6 @@
+14 0.9472973346710205 0.2386360764503479
+Rifles 94.73
+Rockets 4.09
+Pcp_airguns 1.07
+Knives 0.08
+Shotgun 0.02

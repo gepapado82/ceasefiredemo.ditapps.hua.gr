@@ -1,0 +1,6 @@
+18 0.9846369028091431 0.09593568742275238
+War Accessories 98.46
+Knives 0.68
+Powder_Drug 0.68
+Bullet Boxes 0.12
+Bullet Cells 0.04

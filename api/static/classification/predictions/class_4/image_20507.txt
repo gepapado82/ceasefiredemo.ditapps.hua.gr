@@ -1,0 +1,6 @@
+4 0.9986190795898438 0.011918368749320507
+Bullet Cells 99.86
+War Accessories 0.1
+Powder_Drug 0.02
+Injectable_Drug 0.01
+Pils Drug 0.01

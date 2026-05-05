@@ -1,0 +1,6 @@
+12 0.4896754026412964 1.2889788150787354
+Powder_Drug 48.97
+Weeds 30.05
+Military_Clothing 14.81
+Weapon_Storage 1.68
+Injectable_Drug 1.3

@@ -1,0 +1,6 @@
+11 0.30488741397857666 1.7007477283477783
+Pistols 30.49
+Pcp_airguns 29.51
+Injectable_Drug 11.63
+Rockets 11.58
+Knives 9.11

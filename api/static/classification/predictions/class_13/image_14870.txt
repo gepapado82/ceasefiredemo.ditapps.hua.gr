@@ -1,0 +1,6 @@
+13 0.9139425754547119 0.2947651743888855
+Revolver 91.39
+Pistols 8.59
+Rockets 0.02
+Rifles 0.0
+Shotgun 0.0

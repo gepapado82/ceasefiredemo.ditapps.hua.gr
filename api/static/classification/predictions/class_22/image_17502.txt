@@ -1,0 +1,6 @@
+22 0.9292930960655212 0.34398606419563293
+Weeds 92.93
+Bombs 4.16
+Rockets 1.33
+Military_Clothing 0.94
+Injectable_Drug 0.26

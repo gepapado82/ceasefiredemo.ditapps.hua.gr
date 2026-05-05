@@ -1,0 +1,6 @@
+18 0.9960765242576599 0.027689022943377495
+War Accessories 99.61
+Knives 0.35
+Rockets 0.02
+Weapon_Magazines 0.01
+Military_Clothing 0.01

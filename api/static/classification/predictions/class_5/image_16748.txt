@@ -1,0 +1,6 @@
+5 0.8735913634300232 0.5239393711090088
+Full_face_hoods 87.36
+War Accessories 9.08
+Bullet Cells 1.32
+Rifles 0.53
+Military_Clothing 0.53

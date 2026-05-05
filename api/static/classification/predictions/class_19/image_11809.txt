@@ -1,0 +1,6 @@
+19 0.9153519868850708 0.31911501288414
+Weapon_Cases 91.54
+Knives 7.85
+War Accessories 0.3
+Weapon_Storage 0.2
+Blades 0.08

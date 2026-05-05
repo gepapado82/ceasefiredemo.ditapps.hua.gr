@@ -1,0 +1,6 @@
+18 0.9989258646965027 0.009413574822247028
+War Accessories 99.89
+Knives 0.08
+Blades 0.01
+Weapon_Storage 0.01
+Full_face_hoods 0.01

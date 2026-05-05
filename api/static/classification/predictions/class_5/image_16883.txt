@@ -1,0 +1,6 @@
+5 0.9995027780532837 0.004495215602219105
+Full_face_hoods 99.95
+Knives 0.05
+Rockets 0.0
+Weapon_Storage 0.0
+War Accessories 0.0

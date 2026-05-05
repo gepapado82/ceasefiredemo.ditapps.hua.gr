@@ -1,0 +1,6 @@
+3 0.9999911785125732 0.00012009178317384794
+Bullet Boxes 100.0
+Rockets 0.0
+Pils Drug 0.0
+Bullet Cells 0.0
+Blades 0.0

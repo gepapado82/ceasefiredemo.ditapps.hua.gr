@@ -1,0 +1,6 @@
+4 0.9272122383117676 0.3453655540943146
+Bullet Cells 92.72
+War Accessories 3.55
+Seeds 2.52
+Pils Drug 0.96
+Full_face_hoods 0.09

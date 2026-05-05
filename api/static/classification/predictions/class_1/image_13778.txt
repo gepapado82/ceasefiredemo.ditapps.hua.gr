@@ -1,0 +1,6 @@
+1 0.9992033839225769 0.0076345354318618774
+Bombs 99.92
+Rockets 0.05
+Knives 0.01
+Bullet Cells 0.01
+Pils Drug 0.01

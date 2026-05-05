@@ -1,0 +1,6 @@
+5 0.6616984605789185 0.9524409770965576
+Full_face_hoods 66.17
+Weapon_Cases 24.52
+Knives 5.53
+War Accessories 2.14
+Bullet Boxes 0.74

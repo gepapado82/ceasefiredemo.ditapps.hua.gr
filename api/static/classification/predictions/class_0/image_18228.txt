@@ -1,0 +1,6 @@
+0 0.9688153862953186 0.1467522382736206
+Blades 96.88
+Injectable_Drug 2.98
+Knives 0.05
+Weapon_Cases 0.04
+War Accessories 0.03

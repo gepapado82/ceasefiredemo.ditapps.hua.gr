@@ -1,0 +1,6 @@
+6 0.4902358949184418 1.3353033065795898
+Injectable_Drug 49.02
+Blades 25.73
+Powder_Drug 16.74
+Bullet Cells 3.73
+Military_Clothing 2.89

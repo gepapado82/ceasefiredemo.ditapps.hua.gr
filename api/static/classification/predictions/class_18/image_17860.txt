@@ -1,0 +1,6 @@
+15 0.46881935000419617 1.8659950494766235
+Rockets 46.88
+Full_face_hoods 9.79
+Injectable_Drug 9.46
+Revolver 8.04
+Shotgun 7.19

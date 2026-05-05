@@ -1,0 +1,6 @@
+12 0.9731302857398987 0.1638849675655365
+Powder_Drug 97.31
+Injectable_Drug 1.24
+Bullet Boxes 0.62
+Weapon_Storage 0.5
+Rifles 0.13

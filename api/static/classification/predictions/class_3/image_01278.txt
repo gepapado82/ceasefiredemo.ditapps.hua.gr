@@ -1,0 +1,6 @@
+3 0.9999792575836182 0.00026251646340824664
+Bullet Boxes 100.0
+War Accessories 0.0
+Powder_Drug 0.0
+Full_face_hoods 0.0
+Knives 0.0

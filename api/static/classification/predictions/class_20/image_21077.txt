@@ -1,0 +1,6 @@
+20 0.9695168733596802 0.13678914308547974
+Weapon_Magazines 96.95
+Bullet Boxes 3.04
+Pils Drug 0.0
+Injectable_Drug 0.0
+Rockets 0.0

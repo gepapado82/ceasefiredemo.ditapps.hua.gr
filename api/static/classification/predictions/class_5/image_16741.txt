@@ -1,0 +1,6 @@
+5 0.992109477519989 0.048868328332901
+Full_face_hoods 99.21
+Weapon_Cases 0.73
+War Accessories 0.05
+Pils Drug 0.0
+Military_Clothing 0.0

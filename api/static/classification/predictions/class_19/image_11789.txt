@@ -1,0 +1,6 @@
+19 0.9999980926513672 3.0172934202710167e-05
+Weapon_Cases 100.0
+Pistols 0.0
+Bullet Boxes 0.0
+Knives 0.0
+Blades 0.0

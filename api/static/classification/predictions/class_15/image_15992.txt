@@ -1,0 +1,6 @@
+15 0.9946050047874451 0.039399776607751846
+Rockets 99.46
+Knives 0.36
+Rifles 0.08
+Shotgun 0.04
+Injectable_Drug 0.03

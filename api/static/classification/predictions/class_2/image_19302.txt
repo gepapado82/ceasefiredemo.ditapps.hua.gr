@@ -1,0 +1,6 @@
+7 0.9297492504119873 0.3671627342700958
+Knives 92.97
+Rifles 2.72
+Military_Clothing 2.02
+Shotgun 0.79
+Bombs 0.76

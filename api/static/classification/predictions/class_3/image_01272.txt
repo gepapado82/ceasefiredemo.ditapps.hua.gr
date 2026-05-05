@@ -1,0 +1,6 @@
+3 0.9870678782463074 0.07259996235370636
+Bullet Boxes 98.71
+Powder_Drug 1.22
+Full_face_hoods 0.04
+Rockets 0.02
+Blades 0.01

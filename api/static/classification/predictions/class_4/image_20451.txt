@@ -1,0 +1,6 @@
+8 0.7091065645217896 0.9528034925460815
+Military_Clothing 70.91
+Bullet Cells 15.14
+Pils Drug 6.59
+Injectable_Drug 4.54
+Powder_Drug 2.77

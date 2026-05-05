@@ -1,0 +1,6 @@
+10 0.6853667497634888 1.0447449684143066
+Pils Drug 68.54
+Bullet Cells 20.89
+Bullet Boxes 3.18
+War Accessories 1.9
+Full_face_hoods 1.2

@@ -1,0 +1,6 @@
+14 0.7993578910827637 0.8288442492485046
+Rifles 79.94
+Shotgun 6.78
+Weeds 6.05
+Powder_Drug 4.14
+Injectable_Drug 0.73

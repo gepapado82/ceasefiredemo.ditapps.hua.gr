@@ -1,0 +1,6 @@
+6 0.8881435990333557 0.5758472681045532
+Injectable_Drug 88.81
+Pistols 3.66
+Rifles 1.91
+Military_Clothing 1.49
+Bullet Boxes 1.22

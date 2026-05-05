@@ -1,0 +1,6 @@
+16 0.7832727432250977 0.9385713338851929
+Seeds 78.33
+Full_face_hoods 5.64
+Pistols 5.48
+Knives 3.58
+War Accessories 2.53

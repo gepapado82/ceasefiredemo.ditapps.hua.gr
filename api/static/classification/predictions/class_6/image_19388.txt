@@ -1,0 +1,6 @@
+6 0.9998130202293396 0.0019159135408699512
+Injectable_Drug 99.98
+Powder_Drug 0.01
+Blades 0.0
+Knives 0.0
+Pils Drug 0.0

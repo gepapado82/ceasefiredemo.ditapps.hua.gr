@@ -1,0 +1,6 @@
+18 0.9999686479568481 0.0003716372884809971
+War Accessories 100.0
+Knives 0.0
+Weapon_Cases 0.0
+Powder_Drug 0.0
+Rockets 0.0

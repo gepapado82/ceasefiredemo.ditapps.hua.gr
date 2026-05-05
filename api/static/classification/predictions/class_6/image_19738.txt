@@ -1,0 +1,6 @@
+6 0.9999971389770508 4.16679322370328e-05
+Injectable_Drug 100.0
+Pils Drug 0.0
+Pistols 0.0
+Bullet Cells 0.0
+Powder_Drug 0.0

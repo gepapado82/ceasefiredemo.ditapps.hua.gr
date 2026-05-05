@@ -1,0 +1,6 @@
+16 0.9968760013580322 0.02464877814054489
+Seeds 99.69
+Bullet Cells 0.2
+War Accessories 0.07
+Injectable_Drug 0.01
+Full_face_hoods 0.01

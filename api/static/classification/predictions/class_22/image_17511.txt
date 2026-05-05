@@ -1,0 +1,6 @@
+16 0.966218888759613 0.19563984870910645
+Seeds 96.62
+Powder_Drug 1.72
+Weeds 0.7
+War Accessories 0.48
+Rifles 0.27

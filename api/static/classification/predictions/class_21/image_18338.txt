@@ -1,0 +1,6 @@
+21 0.9998249411582947 0.001866683131083846
+Weapon_Storage 99.98
+Rockets 0.01
+Military_Clothing 0.0
+Powder_Drug 0.0
+Rifles 0.0

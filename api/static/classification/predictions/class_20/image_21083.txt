@@ -1,0 +1,6 @@
+15 0.9305286407470703 0.28393685817718506
+Rockets 93.05
+Weapon_Magazines 6.27
+War Accessories 0.28
+Bullet Boxes 0.22
+Pistols 0.12

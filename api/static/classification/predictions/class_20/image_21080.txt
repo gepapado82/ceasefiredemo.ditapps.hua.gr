@@ -1,0 +1,6 @@
+20 0.9406070113182068 0.22580762207508087
+Weapon_Magazines 94.06
+Bullet Boxes 5.93
+Weapon_Cases 0.0
+Pils Drug 0.0
+Bullet Cells 0.0

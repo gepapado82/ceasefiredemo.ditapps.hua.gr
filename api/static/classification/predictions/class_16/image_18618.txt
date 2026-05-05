@@ -1,0 +1,6 @@
+16 0.9836205244064331 0.11197395622730255
+Seeds 98.36
+Full_face_hoods 0.59
+War Accessories 0.41
+Knives 0.24
+Bullet Cells 0.2

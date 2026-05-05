@@ -1,0 +1,6 @@
+5 0.43533024191856384 1.200892686843872
+Full_face_hoods 43.53
+Rockets 41.42
+War Accessories 8.93
+Weapon_Storage 3.69
+Weapon_Cases 0.86

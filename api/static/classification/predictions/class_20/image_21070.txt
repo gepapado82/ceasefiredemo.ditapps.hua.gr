@@ -1,0 +1,6 @@
+19 0.9794106483459473 0.11267203092575073
+Weapon_Cases 97.94
+Weapon_Magazines 1.73
+War Accessories 0.21
+Bullet Cells 0.07
+Knives 0.05

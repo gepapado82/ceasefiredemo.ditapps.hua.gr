@@ -1,0 +1,6 @@
+14 0.42901501059532166 1.3626136779785156
+Rifles 42.9
+Revolver 37.41
+Injectable_Drug 8.36
+Pistols 5.15
+Rockets 2.65

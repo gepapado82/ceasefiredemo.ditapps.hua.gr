@@ -1,0 +1,6 @@
+7 0.9999936819076538 8.378765778616071e-05
+Knives 100.0
+Injectable_Drug 0.0
+Blades 0.0
+Bow and Arrow 0.0
+Weeds 0.0

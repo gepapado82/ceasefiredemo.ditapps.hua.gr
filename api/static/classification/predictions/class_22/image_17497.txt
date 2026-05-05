@@ -1,0 +1,6 @@
+22 0.5285808444023132 0.9754164218902588
+Weeds 52.86
+Powder_Drug 36.1
+Seeds 10.46
+Injectable_Drug 0.47
+Bullet Cells 0.05

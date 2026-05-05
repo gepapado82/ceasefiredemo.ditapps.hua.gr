@@ -1,0 +1,6 @@
+4 0.8558686971664429 0.6447029709815979
+Bullet Cells 85.59
+Knives 5.48
+Injectable_Drug 4.31
+Bombs 1.37
+Full_face_hoods 1.2

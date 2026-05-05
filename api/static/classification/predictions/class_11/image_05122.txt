@@ -1,0 +1,6 @@
+11 0.9999963045120239 5.139327186043374e-05
+Pistols 100.0
+Revolver 0.0
+Weapon_Cases 0.0
+Full_face_hoods 0.0
+Knives 0.0

@@ -1,0 +1,6 @@
+10 0.9949460625648499 0.03239905834197998
+Pils Drug 99.49
+Weapon_Cases 0.49
+War Accessories 0.01
+Powder_Drug 0.0
+Full_face_hoods 0.0

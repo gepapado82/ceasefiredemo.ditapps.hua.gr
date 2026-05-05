@@ -1,0 +1,6 @@
+20 0.9959977865219116 0.029273029416799545
+Weapon_Magazines 99.6
+Pistols 0.27
+Blades 0.11
+War Accessories 0.02
+Revolver 0.0

@@ -1,0 +1,6 @@
+8 0.3706817924976349 1.8023090362548828
+Military_Clothing 37.07
+Weeds 26.66
+Seeds 9.76
+Revolver 9.52
+Bullet Cells 6.75

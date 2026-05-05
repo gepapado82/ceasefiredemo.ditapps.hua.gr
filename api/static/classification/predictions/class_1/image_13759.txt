@@ -1,0 +1,6 @@
+1 0.9992859959602356 0.0064340876415371895
+Bombs 99.93
+Knives 0.05
+Military_Clothing 0.01
+War Accessories 0.0
+Rockets 0.0

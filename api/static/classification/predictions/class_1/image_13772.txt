@@ -1,0 +1,6 @@
+1 0.9999761581420898 0.00029555492801591754
+Bombs 100.0
+Bullet Cells 0.0
+War Accessories 0.0
+Knives 0.0
+Injectable_Drug 0.0

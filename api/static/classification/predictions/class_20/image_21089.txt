@@ -1,0 +1,6 @@
+20 0.9540974497795105 0.2007330358028412
+Weapon_Magazines 95.41
+Bullet Boxes 4.28
+Rifles 0.19
+Bullet Cells 0.08
+Rockets 0.01

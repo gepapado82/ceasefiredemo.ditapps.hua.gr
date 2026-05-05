@@ -1,0 +1,6 @@
+12 0.9785417914390564 0.10378259420394897
+Powder_Drug 97.85
+Injectable_Drug 2.14
+Bullet Cells 0.0
+Weapon_Storage 0.0
+Bombs 0.0

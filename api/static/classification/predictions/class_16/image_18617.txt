@@ -1,0 +1,6 @@
+16 0.855850100517273 0.6273097991943359
+Seeds 85.59
+War Accessories 5.61
+Pils Drug 3.96
+Powder_Drug 2.52
+Bullet Cells 1.67

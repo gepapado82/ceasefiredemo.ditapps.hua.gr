@@ -1,0 +1,6 @@
+3 0.9999853372573853 0.00018040891154669225
+Bullet Boxes 100.0
+War Accessories 0.0
+Powder_Drug 0.0
+Knives 0.0
+Pistols 0.0

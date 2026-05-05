@@ -1,0 +1,6 @@
+17 0.562223494052887 1.4430279731750488
+Shotgun 56.22
+Rockets 14.08
+Military_Clothing 11.28
+Weapon_Storage 9.01
+War Accessories 2.65

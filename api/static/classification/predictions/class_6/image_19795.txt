@@ -1,0 +1,6 @@
+6 0.9999384880065918 0.0007108990103006363
+Injectable_Drug 99.99
+Knives 0.0
+Rockets 0.0
+Blades 0.0
+War Accessories 0.0

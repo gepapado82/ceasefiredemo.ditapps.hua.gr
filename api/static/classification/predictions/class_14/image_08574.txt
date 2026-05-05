@@ -1,0 +1,6 @@
+14 0.7828466892242432 0.8053979873657227
+Rifles 78.28
+Pistols 9.96
+Weapon_Cases 5.98
+Shotgun 4.4
+Knives 0.76

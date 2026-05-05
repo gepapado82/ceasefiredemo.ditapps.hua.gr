@@ -1,0 +1,6 @@
+14 0.4695098102092743 1.4638346433639526
+Rifles 46.95
+Knives 23.08
+Shotgun 16.45
+Rockets 5.38
+Bullet Boxes 4.92

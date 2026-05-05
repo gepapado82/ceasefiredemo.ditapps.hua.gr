@@ -1,0 +1,6 @@
+4 0.7471968531608582 0.6207984685897827
+Bullet Cells 74.72
+Powder_Drug 24.26
+Military_Clothing 0.49
+Pils Drug 0.37
+Revolver 0.06

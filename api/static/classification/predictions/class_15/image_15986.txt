@@ -1,0 +1,6 @@
+15 0.9718562960624695 0.1399342268705368
+Rockets 97.19
+Knives 2.59
+Pcp_airguns 0.09
+Shotgun 0.03
+War Accessories 0.03

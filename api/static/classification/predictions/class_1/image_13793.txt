@@ -1,0 +1,6 @@
+1 0.833191454410553 0.6236035227775574
+Bombs 83.32
+Full_face_hoods 11.21
+War Accessories 3.44
+Shotgun 0.79
+Weapon_Storage 0.67

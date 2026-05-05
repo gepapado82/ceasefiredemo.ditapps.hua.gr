@@ -1,0 +1,6 @@
+12 0.7393931746482849 0.7706913948059082
+Powder_Drug 73.94
+Weapon_Storage 20.55
+War Accessories 2.96
+Injectable_Drug 1.91
+Rockets 0.2

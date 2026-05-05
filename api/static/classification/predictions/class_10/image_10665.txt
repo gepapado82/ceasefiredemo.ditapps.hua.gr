@@ -1,0 +1,6 @@
+10 0.999998927116394 1.707792944216635e-05
+Pils Drug 100.0
+Injectable_Drug 0.0
+Powder_Drug 0.0
+Bullet Cells 0.0
+Weeds 0.0

@@ -1,0 +1,6 @@
+6 0.813984215259552 0.5333195328712463
+Injectable_Drug 81.4
+Blades 17.28
+Powder_Drug 1.22
+Bullet Cells 0.05
+Bullet Boxes 0.02

@@ -1,0 +1,6 @@
+5 0.7384580373764038 0.5769062638282776
+Full_face_hoods 73.85
+Weapon_Cases 26.13
+War Accessories 0.02
+Military_Clothing 0.0
+Knives 0.0

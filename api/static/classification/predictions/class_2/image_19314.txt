@@ -1,0 +1,6 @@
+0 0.7227442860603333 1.0472749471664429
+Blades 72.27
+Injectable_Drug 10.06
+Knives 8.19
+Rockets 4.35
+Bow and Arrow 2.48

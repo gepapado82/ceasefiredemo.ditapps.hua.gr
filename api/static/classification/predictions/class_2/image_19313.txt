@@ -1,0 +1,6 @@
+7 0.9622923135757446 0.18418297171592712
+Knives 96.23
+Rockets 3.14
+Bow and Arrow 0.43
+Shotgun 0.08
+Rifles 0.07

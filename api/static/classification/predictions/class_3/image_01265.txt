@@ -1,0 +1,6 @@
+14 0.16410890221595764 2.5020012855529785
+Rifles 16.41
+Pistols 16.08
+Bullet Cells 13.27
+Weapon_Storage 10.17
+Rockets 9.42

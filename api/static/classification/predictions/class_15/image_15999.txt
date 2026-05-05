@@ -1,0 +1,6 @@
+15 0.9999998807907104 2.8708027457469143e-06
+Rockets 100.0
+Knives 0.0
+Rifles 0.0
+Bombs 0.0
+Military_Clothing 0.0

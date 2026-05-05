@@ -1,0 +1,6 @@
+5 0.9995361566543579 0.004045350942760706
+Full_face_hoods 99.95
+Military_Clothing 0.05
+Revolver 0.0
+Shotgun 0.0
+Weapon_Magazines 0.0

@@ -1,0 +1,6 @@
+11 0.999920129776001 0.0008640883024781942
+Pistols 99.99
+Revolver 0.01
+War Accessories 0.0
+Knives 0.0
+Rockets 0.0

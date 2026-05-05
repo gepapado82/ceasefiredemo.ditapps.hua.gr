@@ -1,0 +1,6 @@
+22 0.9953495860099792 0.03348531574010849
+Weeds 99.53
+Seeds 0.32
+Powder_Drug 0.12
+Rockets 0.01
+War Accessories 0.01

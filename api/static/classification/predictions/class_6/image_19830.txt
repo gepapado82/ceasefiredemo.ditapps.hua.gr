@@ -1,0 +1,6 @@
+6 0.999406099319458 0.0050941226072609425
+Injectable_Drug 99.94
+Powder_Drug 0.06
+Weapon_Storage 0.0
+Full_face_hoods 0.0
+Rockets 0.0

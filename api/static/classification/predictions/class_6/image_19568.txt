@@ -1,0 +1,6 @@
+6 0.9984027743339539 0.014392605051398277
+Injectable_Drug 99.84
+Pils Drug 0.08
+Full_face_hoods 0.03
+Rockets 0.02
+Powder_Drug 0.01

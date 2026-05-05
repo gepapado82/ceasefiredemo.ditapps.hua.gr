@@ -1,0 +1,6 @@
+14 0.8154280185699463 0.5743933916091919
+Rifles 81.54
+Injectable_Drug 15.53
+Military_Clothing 2.59
+Rockets 0.16
+Weapon_Cases 0.09

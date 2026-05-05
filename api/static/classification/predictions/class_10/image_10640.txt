@@ -1,0 +1,6 @@
+10 1.0 6.579406885975914e-07
+Pils Drug 100.0
+Injectable_Drug 0.0
+Bullet Boxes 0.0
+Rockets 0.0
+Bombs 0.0

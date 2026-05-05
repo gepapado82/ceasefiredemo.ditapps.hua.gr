@@ -1,0 +1,6 @@
+14 0.34125572443008423 1.9351061582565308
+Rifles 34.13
+Shotgun 17.17
+Weapon_Storage 12.69
+Rockets 12.59
+Powder_Drug 9.12

@@ -1,0 +1,6 @@
+3 0.9999964237213135 5.138251435710117e-05
+Bullet Boxes 100.0
+War Accessories 0.0
+Full_face_hoods 0.0
+Pils Drug 0.0
+Rockets 0.0

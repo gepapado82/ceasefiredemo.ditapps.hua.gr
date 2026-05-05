@@ -1,0 +1,6 @@
+9 0.988943338394165 0.062117643654346466
+Pcp_airguns 98.89
+Rifles 1.08
+Knives 0.01
+Revolver 0.0
+Injectable_Drug 0.0

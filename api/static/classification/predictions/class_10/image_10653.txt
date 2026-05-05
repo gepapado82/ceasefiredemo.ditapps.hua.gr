@@ -1,0 +1,6 @@
+10 1.0 4.974611442776222e-07
+Pils Drug 100.0
+Bombs 0.0
+Knives 0.0
+Bullet Boxes 0.0
+Rockets 0.0

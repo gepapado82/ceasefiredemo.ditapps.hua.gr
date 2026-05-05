@@ -1,0 +1,6 @@
+10 0.9999966621398926 4.7326815547421575e-05
+Pils Drug 100.0
+Rockets 0.0
+Bullet Boxes 0.0
+Powder_Drug 0.0
+Full_face_hoods 0.0

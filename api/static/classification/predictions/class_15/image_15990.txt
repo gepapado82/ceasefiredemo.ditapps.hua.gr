@@ -1,0 +1,6 @@
+15 0.9999765157699585 0.0002947227330878377
+Rockets 100.0
+Bombs 0.0
+War Accessories 0.0
+Knives 0.0
+Bullet Boxes 0.0

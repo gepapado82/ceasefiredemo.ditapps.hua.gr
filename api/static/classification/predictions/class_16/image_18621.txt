@@ -1,0 +1,6 @@
+16 0.9993153810501099 0.00666633527725935
+Seeds 99.93
+Pils Drug 0.02
+Bombs 0.02
+Bullet Cells 0.02
+Injectable_Drug 0.0

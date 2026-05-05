@@ -1,0 +1,6 @@
+3 0.9998893737792969 0.00113549898378551
+Bullet Boxes 99.99
+Rockets 0.01
+Pils Drug 0.0
+Bombs 0.0
+War Accessories 0.0

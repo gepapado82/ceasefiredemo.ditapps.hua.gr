@@ -1,0 +1,6 @@
+8 0.3880213797092438 1.4507379531860352
+Military_Clothing 38.8
+Blades 38.75
+Injectable_Drug 7.55
+War Accessories 6.06
+Knives 3.77

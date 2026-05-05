@@ -1,0 +1,6 @@
+18 0.9999098777770996 0.0010500757489353418
+War Accessories 99.99
+Bullet Boxes 0.0
+Knives 0.0
+Weapon_Cases 0.0
+Rockets 0.0

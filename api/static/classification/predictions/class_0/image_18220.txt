@@ -1,0 +1,6 @@
+15 0.841242253780365 0.44256794452667236
+Rockets 84.12
+Blades 15.81
+War Accessories 0.05
+Knives 0.02
+Bullet Boxes 0.0

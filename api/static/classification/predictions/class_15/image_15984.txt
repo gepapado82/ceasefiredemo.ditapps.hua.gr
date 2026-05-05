@@ -1,0 +1,6 @@
+15 0.9999845027923584 0.00020292056433390826
+Rockets 100.0
+Revolver 0.0
+Pistols 0.0
+Knives 0.0
+Rifles 0.0

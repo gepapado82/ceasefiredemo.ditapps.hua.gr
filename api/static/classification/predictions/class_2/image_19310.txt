@@ -1,0 +1,6 @@
+3 0.6771129965782166 0.6381688117980957
+Bullet Boxes 67.71
+Rockets 32.18
+Knives 0.04
+Blades 0.04
+Full_face_hoods 0.02

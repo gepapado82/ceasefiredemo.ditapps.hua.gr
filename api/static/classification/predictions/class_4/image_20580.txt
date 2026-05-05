@@ -1,0 +1,6 @@
+6 0.535365641117096 0.8041890263557434
+Injectable_Drug 53.54
+Bullet Cells 44.28
+Bullet Boxes 1.27
+Pils Drug 0.5
+Rockets 0.28

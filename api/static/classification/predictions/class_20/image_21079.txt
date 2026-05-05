@@ -1,0 +1,6 @@
+20 0.9995288848876953 0.004687360487878323
+Weapon_Magazines 99.95
+Pils Drug 0.02
+Bullet Boxes 0.01
+Military_Clothing 0.01
+Revolver 0.0

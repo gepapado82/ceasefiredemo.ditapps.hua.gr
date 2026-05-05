@@ -1,0 +1,6 @@
+15 0.999481737613678 0.005009912885725498
+Rockets 99.95
+Knives 0.04
+Military_Clothing 0.01
+Injectable_Drug 0.0
+Rifles 0.0

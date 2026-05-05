@@ -1,0 +1,6 @@
+7 0.9999759197235107 0.0003133528516627848
+Knives 100.0
+Powder_Drug 0.0
+Rockets 0.0
+Injectable_Drug 0.0
+Blades 0.0

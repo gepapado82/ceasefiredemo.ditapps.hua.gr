@@ -1,0 +1,6 @@
+15 0.3918827772140503 1.6649343967437744
+Rockets 39.19
+Bombs 26.84
+Weeds 15.37
+Military_Clothing 7.26
+Rifles 2.56

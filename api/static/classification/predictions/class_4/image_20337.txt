@@ -1,0 +1,6 @@
+4 0.8372355699539185 0.56784987449646
+Bullet Cells 83.72
+War Accessories 12.86
+Military_Clothing 2.19
+Knives 0.59
+Full_face_hoods 0.26

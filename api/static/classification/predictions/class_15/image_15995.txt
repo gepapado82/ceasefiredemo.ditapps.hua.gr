@@ -1,0 +1,6 @@
+15 0.9999328851699829 0.000728897750377655
+Rockets 99.99
+Bombs 0.01
+Bullet Cells 0.0
+Bullet Boxes 0.0
+Military_Clothing 0.0

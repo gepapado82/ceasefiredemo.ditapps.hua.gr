@@ -1,0 +1,6 @@
+6 0.9999799728393555 0.00026983694988302886
+Injectable_Drug 100.0
+Powder_Drug 0.0
+Revolver 0.0
+Rockets 0.0
+Pils Drug 0.0

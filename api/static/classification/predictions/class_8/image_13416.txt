@@ -1,0 +1,6 @@
+8 0.8877967596054077 0.35171034932136536
+Military_Clothing 88.78
+War Accessories 11.21
+Weapon_Cases 0.01
+Rockets 0.0
+Bullet Cells 0.0

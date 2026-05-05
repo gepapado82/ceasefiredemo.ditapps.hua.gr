@@ -1,0 +1,6 @@
+7 0.9251754283905029 0.33202776312828064
+Knives 92.52
+Blades 5.42
+Weapon_Cases 1.39
+Pils Drug 0.34
+Weapon_Storage 0.13

@@ -1,0 +1,6 @@
+16 0.9994189739227295 0.005912695080041885
+Seeds 99.94
+Pils Drug 0.02
+Knives 0.01
+War Accessories 0.01
+Full_face_hoods 0.01

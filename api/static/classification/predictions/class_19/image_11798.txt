@@ -1,0 +1,6 @@
+19 0.9894198179244995 0.06052098795771599
+Weapon_Cases 98.94
+War Accessories 1.02
+Knives 0.02
+Full_face_hoods 0.01
+Blades 0.0

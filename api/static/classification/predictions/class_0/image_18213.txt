@@ -1,0 +1,6 @@
+0 0.8077300786972046 0.5740688443183899
+Blades 80.77
+Knives 17.56
+Rockets 0.46
+War Accessories 0.44
+Revolver 0.36

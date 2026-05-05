@@ -1,0 +1,6 @@
+3 0.9985238909721375 0.012134733609855175
+Bullet Boxes 99.85
+War Accessories 0.11
+Powder_Drug 0.04
+Full_face_hoods 0.0
+Knives 0.0

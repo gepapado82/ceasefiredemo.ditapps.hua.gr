@@ -1,0 +1,6 @@
+22 0.9166127443313599 0.41377317905426025
+Weeds 91.66
+Rifles 3.37
+Powder_Drug 2.32
+War Accessories 1.65
+Bullet Cells 0.35

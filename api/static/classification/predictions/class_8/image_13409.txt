@@ -1,0 +1,6 @@
+8 0.9599962830543518 0.17318424582481384
+Military_Clothing 96.0
+Rockets 3.91
+Blades 0.06
+Full_face_hoods 0.01
+Bombs 0.0

@@ -1,0 +1,6 @@
+12 0.7023201584815979 1.1420893669128418
+Powder_Drug 70.23
+Injectable_Drug 12.29
+Bullet Cells 5.97
+Knives 3.72
+Rockets 2.48

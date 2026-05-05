@@ -1,0 +1,6 @@
+7 1.0 3.9756892533659993e-07
+Knives 100.0
+Rockets 0.0
+Blades 0.0
+Shotgun 0.0
+Bombs 0.0

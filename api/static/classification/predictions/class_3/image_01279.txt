@@ -1,0 +1,6 @@
+3 0.9999991655349731 1.4197929885995109e-05
+Bullet Boxes 100.0
+War Accessories 0.0
+Rockets 0.0
+Bullet Cells 0.0
+Knives 0.0

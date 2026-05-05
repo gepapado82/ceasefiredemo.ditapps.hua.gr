@@ -1,0 +1,6 @@
+7 0.9332690834999084 0.31404560804367065
+Knives 93.33
+Blades 3.16
+Weapon_Magazines 2.4
+Weapon_Cases 1.1
+War Accessories 0.0

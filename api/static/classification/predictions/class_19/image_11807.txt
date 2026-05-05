@@ -1,0 +1,6 @@
+19 0.9999978542327881 3.367338649695739e-05
+Weapon_Cases 100.0
+War Accessories 0.0
+Knives 0.0
+Pils Drug 0.0
+Bullet Cells 0.0

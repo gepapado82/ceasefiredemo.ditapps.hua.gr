@@ -1,0 +1,6 @@
+19 1.0 6.105967145231261e-07
+Weapon_Cases 100.0
+Knives 0.0
+War Accessories 0.0
+Pils Drug 0.0
+Military_Clothing 0.0

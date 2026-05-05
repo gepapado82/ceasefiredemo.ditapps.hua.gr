@@ -1,0 +1,6 @@
+20 0.6964470148086548 0.8592381477355957
+Weapon_Magazines 69.64
+Knives 24.0
+Rockets 2.24
+Weapon_Cases 1.98
+Rifles 1.2

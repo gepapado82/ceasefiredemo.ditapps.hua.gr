@@ -1,0 +1,6 @@
+3 0.9925705790519714 0.051934316754341125
+Bullet Boxes 99.26
+Weapon_Storage 0.54
+Powder_Drug 0.09
+Rockets 0.03
+Knives 0.02

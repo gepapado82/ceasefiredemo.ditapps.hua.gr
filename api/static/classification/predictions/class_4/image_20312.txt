@@ -1,0 +1,6 @@
+4 0.9999805688858032 0.0002424094418529421
+Bullet Cells 100.0
+Weapon_Storage 0.0
+Military_Clothing 0.0
+Shotgun 0.0
+Revolver 0.0

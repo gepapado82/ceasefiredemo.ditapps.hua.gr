@@ -1,0 +1,6 @@
+1 0.9840291142463684 0.09044484794139862
+Bombs 98.4
+Injectable_Drug 1.37
+Pils Drug 0.16
+War Accessories 0.03
+Rockets 0.02

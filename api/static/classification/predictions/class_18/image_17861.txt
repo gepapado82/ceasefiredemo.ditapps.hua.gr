@@ -1,0 +1,6 @@
+21 0.5209028124809265 1.6907885074615479
+Weapon_Storage 52.09
+Injectable_Drug 14.18
+Rifles 9.85
+Rockets 8.15
+Pistols 5.14

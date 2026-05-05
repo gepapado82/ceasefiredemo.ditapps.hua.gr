@@ -1,0 +1,6 @@
+7 0.9999624490737915 0.0004503417294472456
+Knives 100.0
+Pils Drug 0.0
+War Accessories 0.0
+Rockets 0.0
+Powder_Drug 0.0

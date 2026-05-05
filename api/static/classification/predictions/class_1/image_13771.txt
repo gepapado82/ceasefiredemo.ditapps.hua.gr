@@ -1,0 +1,6 @@
+1 0.9897418022155762 0.07167484611272812
+Bombs 98.97
+Bullet Cells 0.56
+Rockets 0.21
+War Accessories 0.11
+Knives 0.05

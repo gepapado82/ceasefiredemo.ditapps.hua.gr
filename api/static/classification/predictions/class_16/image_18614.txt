@@ -1,0 +1,6 @@
+16 0.9680194854736328 0.17524883151054382
+Seeds 96.8
+Powder_Drug 2.2
+Pils Drug 0.57
+Bullet Cells 0.21
+Military_Clothing 0.07

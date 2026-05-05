@@ -1,0 +1,6 @@
+0 0.9994420409202576 0.0058960565365850925
+Blades 99.94
+Weapon_Cases 0.01
+Knives 0.01
+Revolver 0.01
+Powder_Drug 0.01

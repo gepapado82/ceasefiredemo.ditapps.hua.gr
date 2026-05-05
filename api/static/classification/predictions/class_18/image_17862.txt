@@ -1,0 +1,6 @@
+12 0.6704106330871582 0.7900069355964661
+Powder_Drug 67.04
+Injectable_Drug 29.58
+Full_face_hoods 1.68
+Revolver 0.91
+Military_Clothing 0.4

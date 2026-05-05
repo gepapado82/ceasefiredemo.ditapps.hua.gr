@@ -1,0 +1,6 @@
+21 0.8506969809532166 0.6224913001060486
+Weapon_Storage 85.07
+Knives 7.97
+Full_face_hoods 3.29
+Bullet Boxes 1.52
+Blades 1.39

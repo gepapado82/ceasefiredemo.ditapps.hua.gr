@@ -1,0 +1,6 @@
+2 0.6485118269920349 0.8121140003204346
+Bow and Arrow 64.85
+Knives 31.5
+Bullet Boxes 1.67
+Rockets 1.25
+Rifles 0.34

@@ -1,0 +1,6 @@
+14 0.990471601486206 0.05386810377240181
+Rifles 99.05
+Shotgun 0.95
+Pcp_airguns 0.0
+Blades 0.0
+Injectable_Drug 0.0

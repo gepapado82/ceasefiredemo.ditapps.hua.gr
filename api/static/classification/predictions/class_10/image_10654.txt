@@ -1,0 +1,6 @@
+10 0.9792237281799316 0.13012781739234924
+Pils Drug 97.92
+Injectable_Drug 0.86
+Knives 0.86
+Full_face_hoods 0.12
+Weapon_Cases 0.04

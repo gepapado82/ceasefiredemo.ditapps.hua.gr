@@ -1,0 +1,6 @@
+4 0.3669179379940033 1.9333713054656982
+Bullet Cells 36.69
+Powder_Drug 20.74
+War Accessories 13.06
+Injectable_Drug 10.56
+Shotgun 6.68

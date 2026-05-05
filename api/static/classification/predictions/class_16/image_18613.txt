@@ -1,0 +1,6 @@
+16 0.9921814203262329 0.05385816842317581
+Seeds 99.22
+Pils Drug 0.45
+Bullet Cells 0.26
+Knives 0.02
+Powder_Drug 0.01

@@ -1,0 +1,6 @@
+8 0.4200842082500458 1.2576606273651123
+Military_Clothing 42.01
+Injectable_Drug 33.73
+Powder_Drug 18.59
+Shotgun 3.61
+Revolver 1.59

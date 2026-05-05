@@ -1,0 +1,6 @@
+11 0.28487780690193176 2.0189619064331055
+Pistols 28.49
+Knives 17.1
+Full_face_hoods 14.51
+War Accessories 13.19
+Military_Clothing 8.89

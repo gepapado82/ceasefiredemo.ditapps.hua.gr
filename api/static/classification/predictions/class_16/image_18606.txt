@@ -1,0 +1,6 @@
+11 0.41560491919517517 1.8925572633743286
+Pistols 41.56
+Bullet Cells 16.15
+Revolver 8.82
+Knives 8.81
+Rifles 7.17

@@ -1,0 +1,6 @@
+19 0.9999994039535522 9.669387509347871e-06
+Weapon_Cases 100.0
+Knives 0.0
+Full_face_hoods 0.0
+War Accessories 0.0
+Weapon_Magazines 0.0
