@@ -5,12 +5,12 @@
       <div class="hero-content">
         <div class="logo-container">
           <div class="logos-row">
-            <q-img width="600px" src="/FullLogo.png" class="logo main-logo" />
+            <q-img width="600px" src="FullLogo.png" class="logo main-logo" />
           </div>
 
           <div class="logos-row">
-            <q-img width="450px" src="/HUA-Logo-Blue-RGB.png" class="logo partner-logo" />
-            <q-img width="150px" src="/hua_cvg_logo.png" class="logo partner-logo" />
+            <q-img width="450px" src="HUA-Logo-Blue-RGB.png" class="logo partner-logo" />
+            <q-img width="150px" src="hua_cvg_logo.png" class="logo partner-logo" />
           </div>
         </div>
 
@@ -84,7 +84,7 @@
     <div class="funding-section">
       <div class="container">
         <div class="funding-content">
-          <q-img width="80px" src="/eu_logo.png" class="eu-logo" />
+          <q-img width="80px" src="eu_logo.png" class="eu-logo" />
           <div class="funding-text">
             This project has received funding from the European Union's Horizon Europe research and innovation programme
             under grant agreement No 101073876
