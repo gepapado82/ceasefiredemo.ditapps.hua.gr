@@ -10,7 +10,7 @@ function getPublicFiles() {
 
   const images = Object.keys(originalFiles).map(key => {
     const fileName = key.split('/').pop();
-    const pathWithoutPublic = key.replace('/public', '');
+    const pathWithoutPublic = key.replace('/public/', '');
     return {
       src: pathWithoutPublic,
       prediction: pathWithoutPublic.replace('/original/', '/predictions/'),
@@ -36,7 +36,7 @@ function getDetectionFiles() {
   Object.keys(detectionFiles).forEach(key => {
     const fileName = key.split('/').pop();
     const baseName = fileName.replace(/\.txt$/, '');
-    const pathWithoutPublic = key.replace('/public', '');
+    const pathWithoutPublic = key.replace('/public'/, '');
     const content = detectionFiles[key].default || detectionFiles[key];
 
     // Parse the content - assuming each line contains a detection
@@ -77,7 +77,7 @@ function getGTFiles() {
   Object.keys(detectionFiles).forEach(key => {
     const fileName = key.split('/').pop();
     const baseName = fileName.replace(/\.txt$/, '');
-    const pathWithoutPublic = key.replace('/public', '');
+    const pathWithoutPublic = key.replace('/public'/, '');
     const content = detectionFiles[key].default || detectionFiles[key];
 
     // Parse the content - assuming each line contains a detection
