@@ -9,7 +9,7 @@ from tqdm import tqdm
 folders = [
     file
     for file in os.listdir(
-        "original"
+        "/home/cani/Workspace/Ceasefire/ceasefire_demo/api/static/classification/original"
     )
 ]
 
