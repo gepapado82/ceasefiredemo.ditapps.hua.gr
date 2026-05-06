@@ -1,6 +1,225 @@
 <script>
 import { defineComponent } from 'vue';
 import CryptoJS from 'crypto-js';
+
+const REPO_BASE = '/ceasefiredemo.ditapps.hua.gr';
+  
+function getPublicFiles() {
+  // Get all files from the public directory using Vite's import.meta.glob
+  const originalFiles = import.meta.glob('/public/classification/original/**/*.{png,jpg,jpeg}', { eager: true });
+
+  const images = Object.keys(originalFiles).map(key => {
+    const fileName = key.split('/').pop();
+    const pathWithoutPublic = key.replace('/public', REPO_BASE);
+    return {
+      src: pathWithoutPublic,
+      prediction: pathWithoutPublic.replace('/original/', '/predictions/'),
+      name: fileName,
+      // Extract class number from path (assuming format /class_X/)
+      class: parseInt(key.match(/class_(\d+)/)?.[1] || '0')
+    };
+  });
+
+  return images;
+}
+
+function getClassificationFiles() {
+  // FIXED: Changed 'detection' to 'classification' to match the images
+  const detectionFiles = import.meta.glob('/public/classification/predictions/**/*.txt', {
+    eager: true,
+    as: 'raw'  // This tells Vite to import the raw content
+  });
+
+  // Group detections by filename (without extension)
+  const grouped = {};
+
+  Object.keys(detectionFiles).forEach(key => {
+    const fileName = key.split('/').pop();
+    const baseName = fileName.replace(/\.txt$/, '');
+    const pathWithoutPublic = key.replace('/public', REPO_BASE);
+    const content = detectionFiles[key].default || detectionFiles[key];
+
+    // SAFETY CHECK: Ensure content exists and is a string before splitting
+    if (typeof content !== 'string') return;
+
+    // Split content into lines and remove empty lines
+    const lines = content.split('\n').filter(line => line.trim());
+
+    // SAFETY CHECK: If the text file is completely empty, skip it so it doesn't crash the page
+    if (lines.length === 0) {
+        console.warn(`Skipping empty text file: ${fileName}`);
+        return; 
+    }
+
+    // First line contains metadata
+    const [class_id, conf, entropy] = lines[0].split(' ').map(Number);
+
+    // Next 5 lines contain top-5 classifications
+    // SAFETY CHECK: Make sure we don't try to read lines that don't exist
+    const top5 = lines.slice(1, 6).map(line => {
+      const parts = line.split(' ');
+      // If there's more than 2 parts, combine all but last for className
+      const confidence = parseFloat(parts[parts.length - 1]);
+      const className = parts.slice(0, -1).join(' ');
+      return [className, confidence];
+    });
+
+    grouped[baseName] = {
+      src: pathWithoutPublic,
+      name: fileName,
+      gt_class: parseInt(key.match(/class_(\d+)/)?.[1] || '0'),
+      class_id: class_id,
+      confidence: conf * 100,
+      entropy: entropy * 100,
+      top5
+    };
+  });
+
+  console.log("Grouped classification files:", grouped);
+  return grouped;
+}
+
+export default defineComponent({
+  name: 'ImageTag',  
+  data() {
+    const salt = 'a1b2c3d4';  
+    const clearText = 'ceasefiredemoSRE2025';
+    // precompute hash + salt
+    const STORED_HASH = CryptoJS.SHA256(clearText + salt).toString();
+    return {
+      pwInput: '',
+      error: false,
+      authenticated: false,
+      salt,
+      STORED_HASH,
+      api_url: "/api/classify",
+      api_top5: null,
+      url_headers: ["Access-Control-Allow-Origin: *"],
+      labels: ['Blades', 'Bombs', 'Bow and Arrow', 'Bullet Boxes', 'Bullet Cells',
+        'Full_face_hoods', 'Injectable_Drug', 'Knives', 'Military_Clothing',
+        'Pcp_airguns', 'Pils Drug', 'Pistols', 'Powder_Drug', 'Revolver',
+        'Rifles', 'Rockets', 'Seeds', 'Shotgun', 'War Accessories',
+        'Weapon_Cases', 'Weapon_Magazines', 'Weapon_Storage', 'Weeds'],
+      all_filenames: null,
+      staticImages: getPublicFiles(),
+      staticClassifications: getClassificationFiles(),
+      image_upload: null,
+      loading: false,
+      showModal: false,
+      showInstructionsContent: true,
+      uploadedImage: null,
+      selectedFilters: [],
+      gt_class: null,
+      prediction_confidence: 0,
+      prediction_entropy: 0,
+    };
+  },
+  created() {
+    this.authenticated = sessionStorage.getItem('fakeAuth') === 'true';
+  },
+  methods: {
+    checkPassword() {
+      // hash the input + same salt
+      const inputHash = CryptoJS.SHA256(this.pwInput + this.salt).toString();
+      if (inputHash === this.STORED_HASH) {
+        this.authenticated = true;
+        // sessionStorage.setItem('fakeAuth', 'true');
+        this.error = false;
+      } else {
+        this.error = true;
+      }
+      this.pwInput = '';
+    },
+    logout() {
+      this.authenticated = false;
+      // sessionStorage.removeItem('fakeAuth');
+    },
+    quasarUploadImage(file) {
+      if (!file || !file[0]) return;
+      this.loading = true;
+      const uploadedFile = file[0];
+      this.image_upload = URL.createObjectURL(uploadedFile);
+      this.sendImage(uploadedFile);
+    },
+    async loadExampleImage(imageSrc) {
+      try {
+        this.loading = true;
+        this.showModal = true;
+
+        // Get the filename from the path
+        const fileName = imageSrc.split('/').pop().replace('.png', '').replace('.jpg', '');
+
+        // Get the classification results
+        const results = this.staticClassifications[fileName];
+        if (!results) {
+          console.error('No classification results found for:', fileName);
+          return;
+        }
+
+        this.image_upload = imageSrc;
+        this.api_top5 = results.top5.map(([className, confidence]) => [
+          className,
+          confidence // Keep original confidence value
+        ]);
+        this.gt_class = results.gt_class;
+        this.prediction_confidence = results.confidence;
+        this.prediction_entropy = results.entropy;
+
+      } catch (error) {
+        console.error('Error loading example image:', error);
+      } finally {
+        this.loading = false;
+      }
+    },
+    resetImage() {
+      this.image_upload = null;
+      this.api_data = null;
+      this.api_top5 = null;
+      this.showModal = false;
+    },
+    toggleFilter(classIndex) {
+      const index = this.selectedFilters.indexOf(classIndex);
+      if (index === -1) {
+        this.selectedFilters.push(classIndex);
+      } else {
+        this.selectedFilters.splice(index, 1);
+      }
+    },
+    clearFilters() {
+      this.selectedFilters = [];
+    }
+  },
+  computed: {
+    exampleImages() {
+      if (!this.staticImages) return [];
+
+      let filteredImages = this.staticImages;
+
+      // Apply filters if any are selected
+      if (this.selectedFilters.length > 0) {
+        filteredImages = filteredImages.filter(image =>
+          this.selectedFilters.includes(image.class)
+        );
+      }
+
+      return filteredImages
+        .map(image => ({
+          ...image,
+          description: `Ground Truth Class: ${this.labels[image.class]}`
+        }))
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 200);
+    },
+  }
+});
+</script>
+
+
+
+<!-- 
+<script>
+import { defineComponent } from 'vue';
+import CryptoJS from 'crypto-js';
 const REPO_BASE = '/ceasefiredemo.ditapps.hua.gr';
   
 function getPublicFiles() {
@@ -203,7 +422,7 @@ export default defineComponent({
   }
 });
 </script>
-
+-->
 <template>
 
   <q-page class="flex flex-center">
@@ -260,7 +479,7 @@ export default defineComponent({
           </div>
         </div>
       </div>
-
+      
       <!-- Filtering -->
       <div class="filter-section q-mb-xl">
         <div class="text-subtitle1 q-mb-md text-grey-8 text-center">
