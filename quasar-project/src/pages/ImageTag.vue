@@ -24,7 +24,7 @@ function getPublicFiles() {
 
 function getClassificationFiles() {
   // Get all .txt detection files from the public directory
-  const detectionFiles = import.meta.glob('/public/classification/predictions/**/*.txt', {
+  const detectionFiles = import.meta.glob('/public/detection/predictions/**/*.txt', {
     eager: true,
     as: 'raw'  // This tells Vite to import the raw content
   });
