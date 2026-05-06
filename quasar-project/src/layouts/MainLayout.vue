@@ -37,21 +37,21 @@ const linksList = [
     caption: '',
     icon: 'home',
     target: '',
-    link: '/#'
+    link: 'https://gthpapadopoulos.github.io/ceasefiredemo.ditapps.hua.gr/#/'
   },
   {
     title: 'X-ray illicit firearms detection',
     // caption: 'X-ray Object Detection',
     icon: 'code',
     target: '',
-    link: '/#/object-detection'
+    link: 'https://gthpapadopoulos.github.io/ceasefiredemo.ditapps.hua.gr/#/object-detection'
   },
   {
     title: 'Image Classification',
     // caption: 'Image Classification',
     icon: 'code',
     target: '',
-    link: '/#/image-classification'
+    link: 'https://gthpapadopoulos.github.io/ceasefiredemo.ditapps.hua.gr/#/image-classification'
   },
   // {
   //   title: 'Παρόμοιες εικόνες X-ray',
